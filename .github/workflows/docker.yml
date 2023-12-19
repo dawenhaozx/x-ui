@@ -16,7 +16,7 @@ on:
       - 'master'
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: dawenhaozx/xrayr
+  IMAGE_NAME: dawenhaozx/fxui
 
 jobs:
   build:
